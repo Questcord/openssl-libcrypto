@@ -1,16 +1,16 @@
 {
-    "sharedDir": "shared",
-    "dependenciesDir": "extern",
-    "info": {
-      "name": "OpenSSL - libcrypto",
-      "id": "openssl-libcrypto",
-      "version": "1.0.0",
-      "url": "https://github.com/Questcord/openssl-libcrypto",
-      "additionalData": {
-        "overrideSoName": "libcrypto.so",
-        "soLink": "https://github.com/Questcord/openssl-libcrypto/releases/download/1.1.1k/libcrypto.so"
-      }
-    },
-    "dependencies": [],
-    "additionalData": {}
-  }
+  "sharedDir": "shared",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "OpenSSL - libcrypto",
+    "id": "openssl-libcrypto",
+    "version": "1.0.0",
+    "url": "https://github.com/Questcord/openssl-libcrypto",
+    "additionalData": {
+      "overrideSoName": "libcrypto.so",
+      "soLink": "https://github.com/Questcord/openssl-libcrypto/releases/download/1.1.1k/libcrypto.so"
+    }
+  },
+  "dependencies": [],
+  "additionalData": {}
+}
