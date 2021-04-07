@@ -1,2 +1,3 @@
 qpm.shared.json
-shared
+extern/
+*.backup
